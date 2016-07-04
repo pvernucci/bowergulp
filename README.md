@@ -1,3 +1,3 @@
-#MVVM Application
+#BowerGulp Application
 
 Primo progetto su GIT
